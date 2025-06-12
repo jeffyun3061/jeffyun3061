@@ -71,14 +71,5 @@
 <h3 align="center">📊 Languages (Last year)</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?
-         username=jeffyun3061&
-         layout=compact&
-         theme=tokyonight&
-         exclude_repo=atoa-lead-analyzer,sales-ai-agent&
-         hide=python,html,css,scss,cython&
-         langs_count=8"
-    alt="Top Langs"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffyun3061&layout=compact&theme=tokyonight&exclude_repo=atoa-lead-analyzer,sales-ai-agent&hide=python,html,css,scss,cython&langs_count=8" alt="Top Langs"/>
 </p>
